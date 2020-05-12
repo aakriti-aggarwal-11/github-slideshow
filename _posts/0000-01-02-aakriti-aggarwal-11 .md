@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+This does put a smile on my face
 Use the left arrow to go back!
